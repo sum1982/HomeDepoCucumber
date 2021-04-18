@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Homedepot" duration-ms="120993" started-at="2021-04-04T04:35:09Z" finished-at="2021-04-04T04:37:10Z">
+    <groups>
+    </groups>
+    <test name="HomeDepot Test" duration-ms="120993" started-at="2021-04-04T04:35:09Z" finished-at="2021-04-04T04:37:10Z">
+      <class name="com.homedepot.TestCases.HomeScreenTest">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.homedepot.TestCases.HomeScreenTest@13a5fe33]" name="setup" is-config="true" duration-ms="3729" started-at="2021-04-04T04:35:09Z" finished-at="2021-04-04T04:35:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="giftcards_004()[pri:0, instance:com.homedepot.TestCases.HomeScreenTest@13a5fe33]" name="giftcards_004" duration-ms="45080" started-at="2021-04-04T04:35:12Z" finished-at="2021-04-04T04:35:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- giftcards_004 -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.homedepot.TestCases.HomeScreenTest@13a5fe33]" name="setup" is-config="true" duration-ms="4703" started-at="2021-04-04T04:35:58Z" finished-at="2021-04-04T04:36:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="findastore_003()[pri:0, instance:com.homedepot.TestCases.HomeScreenTest@13a5fe33]" name="findastore_003" duration-ms="24739" started-at="2021-04-04T04:36:02Z" finished-at="2021-04-04T04:36:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findastore_003 -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.homedepot.TestCases.HomeScreenTest@13a5fe33]" name="setup" is-config="true" duration-ms="3428" started-at="2021-04-04T04:36:27Z" finished-at="2021-04-04T04:36:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="searchanitem_tc002()[pri:0, instance:com.homedepot.TestCases.HomeScreenTest@13a5fe33]" name="searchanitem_tc002" duration-ms="17260" started-at="2021-04-04T04:36:30Z" finished-at="2021-04-04T04:36:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchanitem_tc002 -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.homedepot.TestCases.HomeScreenTest@13a5fe33]" name="setup" is-config="true" duration-ms="3306" started-at="2021-04-04T04:36:48Z" finished-at="2021-04-04T04:36:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="login_001()[pri:0, instance:com.homedepot.TestCases.HomeScreenTest@13a5fe33]" name="login_001" duration-ms="18517" started-at="2021-04-04T04:36:51Z" finished-at="2021-04-04T04:37:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_001 -->
+      </class> <!-- com.homedepot.TestCases.HomeScreenTest -->
+    </test> <!-- HomeDepot Test -->
+  </suite> <!-- Homedepot -->
+</testng-results>
